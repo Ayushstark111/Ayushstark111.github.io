@@ -21,7 +21,6 @@
 }
 
 p{
-    padding-top: 4 rem;
     font-size: 17px;
     text-align: center;
     font-family: 'Lato', sans-serif;
@@ -61,6 +60,6 @@ form{
     opacity: ;0.6
 }
 .submitMsg{
-    color :green;
+    color :purple;
     font-size: 30px;
 }
